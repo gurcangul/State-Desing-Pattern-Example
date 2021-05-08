@@ -13,7 +13,7 @@ public class Not_Started implements IState {
 	public String toString() {
 		return "The State is " + statu;
 	}
-	
+	//return "The State is " + statu;
 
 	
 	
