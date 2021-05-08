@@ -19,7 +19,7 @@ public class Employee {
 		Complete completed = new Complete();//only employee can do this
 		completed.doAction(part.getContext());//only employee can do this
 	}
-	//--
+	//--  
 	
 	//Checking and changing the assembly of part(s)
 	public void changeTheAssemblyOfStatuAutomatically() {// tabi burasi henuz hazir degil. assembly classi da gelince tam olacak 
